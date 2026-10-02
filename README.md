@@ -134,6 +134,7 @@ A curated list of awesome themes, plugins and more for [Obsidian](https://obsidi
 | [Obsidian For Business](https://github.com/tallguyjenks/Obsidian-For-Business) | A combination of a template vault with initial structure and some Microsoft Office VBA Macros to facilitate a powerful, extensible, and flexible plain text workflow using Microsoft Office and Obsidian For Business. | [Bryan Jenks](https://github.com/tallguyjenks) |
 | [Sourcegraph knowledge bases extension](https://github.com/bobheadxi/sourcegraph-knowledge-bases) | Browse Markdown knowledge bases (e.g. Obsidian vaults or Foam repositories) in Sourcegraph. | [Robert Lin](https://github.com/bobheadxi) |
 | [Obweb](https://github.com/chenyukang/obweb/) | Web applcation to view and edit files in an Obsidian vault. Optimized for mobile devices. | [Yukang Chen](https://github.com/chenyukang) |
+| [Obsidian PARA Folder Diagnostic](https://para-diagnostic.vercel.app) | Free web tool that suggests a PARA (Projects/Areas/Resources/Archives) classification for your existing Obsidian folder structure. Paste your top-level folder names and get a suggested breakdown with reasoning. No login, no data sent or stored — runs entirely client-side. | [giichi141](https://github.com/giichi141) |
   
 ---
   
